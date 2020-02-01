@@ -1,0 +1,8 @@
+ One difficulty I had while completing this milestone was one that was resolved during the lab hours today.
+I wasn't able to change the size of my canvas to match the size of the instructor's in the tutorial. This resulted
+in me having to use different sizes for my cards and my PlayerAreas/dropzone. It wasn't much of an issue in terms of
+how the game ran, but I did struggle to find a solution online. I was able to increase the size of the canvas once
+a solution was given in lab. I didn't really have a problem that I was unable to resolve, given that it was a tutorial
+that guided me every step of the way. I'm sure I will struggle much more on the next milestone.
+ It was cool learning how certain things affected a component. For example, how a Rigidbody component puts the object it
+ is added to under the control of the Unity Physics engine.
